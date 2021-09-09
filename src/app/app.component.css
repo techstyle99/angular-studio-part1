@@ -2,3 +2,15 @@
     display: flex; 
     padding: 10px; 
 }
+
+body {
+    background-color: aqua;
+}
+
+app-header {
+    color: red; 
+}
+
+app-crew h3 {
+    color: blue; 
+}
